@@ -1,0 +1,9 @@
+[submodule "cstring"]
+	path = cstring
+	url = https://github.com/cloudwu/cstring.git
+[submodule "picoev"]
+	path = picoev
+	url = https://github.com/kazuho/picoev.git
+[submodule "chan"]
+	path = chan
+	url = https://github.com/tylertreat/chan.git
