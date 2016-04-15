@@ -7,3 +7,6 @@
 [submodule "chan"]
 	path = chan
 	url = https://github.com/tylertreat/chan.git
+[submodule "coroutine"]
+	path = coroutine
+	url = https://github.com/cloudwu/coroutine.git
