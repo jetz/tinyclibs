@@ -10,3 +10,12 @@
 [submodule "coroutine"]
 	path = coroutine
 	url = https://github.com/cloudwu/coroutine.git
+[submodule "linenoise"]
+	path = linenoise
+	url = https://github.com/antirez/linenoise
+[submodule "picohttpparser"]
+	path = picohttpparser
+	url = https://github.com/h2o/picohttpparser
+[submodule "picotest"]
+	path = picotest
+	url = https://github.com/h2o/picotest
