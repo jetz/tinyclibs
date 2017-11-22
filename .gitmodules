@@ -19,3 +19,6 @@
 [submodule "picotest"]
 	path = picotest
 	url = https://github.com/h2o/picotest
+[submodule "lua-bson"]
+	path = lua-bson
+	url = https://github.com/cloudwu/lua-bson
